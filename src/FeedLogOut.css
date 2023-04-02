@@ -1,0 +1,11 @@
+.feedLogOut{
+    flex:0.8;
+    
+}
+.widgets__widgetContainer{
+    margin-top: 15x;
+    margin-left: 0;
+    padding: 0px;
+    background-color: #f5f8fa;
+    border-radius: 20px;
+}
