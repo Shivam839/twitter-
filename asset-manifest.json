@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/twitterByNewton%20/static/css/main.e67a3f98.css",
+    "main.js": "/twitterByNewton%20/static/js/main.36e1a07f.js",
+    "static/js/787.f649083d.chunk.js": "/twitterByNewton%20/static/js/787.f649083d.chunk.js",
+    "static/media/logo.jpeg": "/twitterByNewton%20/static/media/logo.5a0560a072665794d750.jpeg",
+    "index.html": "/twitterByNewton%20/index.html",
+    "main.e67a3f98.css.map": "/twitterByNewton%20/static/css/main.e67a3f98.css.map",
+    "main.36e1a07f.js.map": "/twitterByNewton%20/static/js/main.36e1a07f.js.map",
+    "787.f649083d.chunk.js.map": "/twitterByNewton%20/static/js/787.f649083d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e67a3f98.css",
+    "static/js/main.36e1a07f.js"
+  ]
+}
