@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# Twitter demo
+![image](https://github.com/Shivam839/twitterByNewton/assets/115664905/0f1c4d51-7ae8-4b3f-a7e5-4895b78c6ee5)
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
